@@ -1,3 +1,12 @@
+---
+title: '#90DaysOfDevOps - Application Focused - Day 3'
+published: false
+description: 90DaysOfDevOps - Application Focused
+tags: 'devops, 90daysofdevops, learning'
+cover_image: null
+canonical_url: null
+id: 1048825
+---
 ## DevOps Lifecycle - Application Focused
 
 As we continue through these next few weeks we are 100% going to come across these titles (Continuous Development, Testing, Deployment, Monitor) over and over again, If you are heading towards the DevOps Engineer role then repeatability will be something you will get used to but constantly enhancing each time is another thing that keeps things interesting. 
@@ -70,6 +79,6 @@ My advice is to watch all of the below and hopefully you also picked something u
 - [Continuous Monitoring](https://www.youtube.com/watch?v=Zu53QQuYqJ0)
 - [The Remote Flow](https://www.notion.so/The-Remote-Flow-d90982e77a144f4f990c135f115f41c6)
 - [FinOps Foundation - What is FinOps](https://www.finops.org/introduction/what-is-finops/)
-- [**NOT FREE** The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+- [**NOT FREE** The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/)
 
 If you made it this far then you will know if this is where you want to be or not. See you on [Day 4](day04.md).  
